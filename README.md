@@ -6,7 +6,9 @@ This repository provides a hands-on guide for addressing the **class imbalance p
 
 **Dr. Sakinat Oluwabukonla Folorunso**  
 Associate Professor of AI Systems and FAIR Data Science 
-Olabisi Onabanjo University
+
+Olabisi Onabanjo University, Nigeria
+
 [Google Scholar](https://scholar.google.com/citations?user=ysoR2G0AAAAJ) | [GitHub](https://github.com/Sakinat-Folorunso) | [Website](https://sites.google.com/view/sakinatfolorunso/home)
 
 ## 📌 Problem Overview
