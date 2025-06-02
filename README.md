@@ -42,5 +42,7 @@ For example, a classifier may achieve 95% accuracy by always predicting the majo
 - `matplotlib`, `seaborn`, `ipywidgets`
 - Jupyter Notebook or Google Colab
 
+Google Colab Link: https://drive.google.com/drive/folders/1RserzXDW1KC_f6We1mRkjXUHl6X1CPVw?usp=drive_link 
+
 
 Let’s build machine learning models that are not just accurate — but fair, balanced, and useful.
