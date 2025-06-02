@@ -2,6 +2,13 @@
 
 This repository provides a hands-on guide for addressing the **class imbalance problem** using various resampling techniques and evaluation metrics. The content is structured as an interactive tutorial notebook, originally prepared for the **Data Science Africa Summer School 2025**.
 
+## 👩🏾‍🏫 Facilitator
+
+**Dr. Sakinat Oluwabukonla Folorunso**  
+Associate Professor of AI Systems and FAIR Data Science 
+Olabisi Onabanjo University
+[Google Scholar](https://scholar.google.com/citations?user=ysoR2G0AAAAJ) | [GitHub](https://github.com/Sakinat-Folorunso) | [Website](https://sites.google.com/view/sakinatfolorunso/home)
+
 ## 📌 Problem Overview
 
 In many real-world applications—like fraud detection, medical diagnosis, or rare event modeling—datasets are **imbalanced**, meaning one class significantly outnumbers others.
@@ -26,5 +33,12 @@ For example, a classifier may achieve 95% accuracy by always predicting the majo
 - Visualize the effects of resampling using **PCA plots**
 - Use **interactive widgets** to explore sampling effects dynamically
 
-## 📂 Folder Structure
+## 🧠 Requirements
 
+- Python ≥ 3.7
+- `scikit-learn`, `imbalanced-learn`
+- `matplotlib`, `seaborn`, `ipywidgets`
+- Jupyter Notebook or Google Colab
+
+
+Let’s build machine learning models that are not just accurate — but fair, balanced, and useful.
