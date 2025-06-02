@@ -9,7 +9,7 @@ Associate Professor of AI Systems and FAIR Data Science
 
 Olabisi Onabanjo University, Nigeria
 
-[Google Scholar](https://scholar.google.com/citations?user=ysoR2G0AAAAJ) | [GitHub](https://github.com/Sakinat-Folorunso) | [Website](https://sites.google.com/view/sakinatfolorunso/home)
+[Google Scholar](https://scholar.google.com/citations?user=ysoR2G0AAAAJ) | [GitHub](https://github.com/Sakinat-Folorunso) | [Website](https://sites.google.com/view/sakinatfolorunso/home) | [TRAIL](https://sites.google.com/view/ai-trail-oou/home)
 
 ## 📌 Problem Overview
 
