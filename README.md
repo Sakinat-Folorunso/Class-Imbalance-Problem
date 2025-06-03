@@ -5,7 +5,7 @@ This repository provides a hands-on guide for addressing the **class imbalance p
 ## 👩🏾‍🏫 Facilitator
 
 **Dr. Sakinat Oluwabukonla Folorunso**  
-Associate Professor of AI Systems and FAIR Data Science 
+Senior Faculty of Computer Science, AI Systems and FAIR Data Science 
 
 Olabisi Onabanjo University, Nigeria
 
